@@ -96,7 +96,7 @@ export const Header = () => {
         <div className={styles.left}>
           <Link to="/" className={styles.logoLink}>
             <img
-              src={`${import.meta.env.BASE_URL}img/Logo.svg`}
+              src="/phone-catalog/img/Logo.svg"
               alt="Nice Gadgets Logo"
               className={styles.logo}
             />
