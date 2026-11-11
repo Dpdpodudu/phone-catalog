@@ -9,6 +9,7 @@ import { ProductDetailsPage } from './modules/ProductDetailsPage';
 import { NotFoundPage } from './modules/NotFoundPage';
 import './App.scss';
 import React from 'react';
+// fix
 
 export const App = () => {
   return (
