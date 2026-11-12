@@ -31,3 +31,32 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Dpdpodudu/phone-catalog.git](https://github.com/Dpdpodudu/phone-catalog.git)
+   ```
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd phone-catalog
+   ```
+
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+4. **Start the development server:**
+   ```bash
+   npm start
+   ```
+   *(Note: depending on your package.json scripts, you might also use `npm run dev`). The project will open automatically in your browser.*
+
+## 📦 Build and Deployment
+
+To create a production-ready build:
+```bash
+npm run build
+```
+
+To deploy the project to GitHub Pages:
+```bash
+npm run deploy
+```

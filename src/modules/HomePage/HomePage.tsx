@@ -36,7 +36,7 @@ const brandNewModels: Product[] = [
     category: 'phones',
     name: 'Apple iPhone 14 128GB Yellow',
     priceRegular: 799,
-    priceDiscount: 759,
+    priceDiscount: 799,
     screen: '6.1" OLED',
     capacity: '128 GB',
     ram: '6 GB',

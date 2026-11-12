@@ -13,7 +13,7 @@ export const Footer = () => {
       <div className={styles.content}>
         <Link to="/" className={styles.logo}>
           {/* Убран ведущий слеш для корректной работы путей на деплое */}
-          <img src="img/logo.svg" alt="Nice Gadgets Logo" />
+          <img src="/phone-catalog/img/Logo.svg" alt="Nice Gadgets Logo" />
         </Link>
 
         <nav className={styles.nav}>
